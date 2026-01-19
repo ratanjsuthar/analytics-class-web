@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+  <title> social media analytics site </title>
+
+  
+</head>
+  <body>
+    <h1> Welcome to social media analytics site </h1>
+    <p> This is used for google analytics practice.</p>
+    <button id= "Buybtn"> Buy now </button>
+  </body>
+</html>
+
